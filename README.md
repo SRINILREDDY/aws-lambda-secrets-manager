@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Lambda Secrets Manager Example
 
 This project demonstrates how to fetch secrets securely from AWS Secrets Manager using AWS Lambda and Python.
@@ -46,3 +47,7 @@ The Lambda function retrieves secrets from AWS Secrets Manager.
 ## Author
 
 Srini Reddy
+=======
+# aws-lambda-secrets-manager
+AWS Lambda project using AWS Secrets Manager and Python
+>>>>>>> b90d04f0b142fc03f4cb64fb308a0f4db7caafa0
