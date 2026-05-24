@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AWS Lambda Secrets Manager Example
 
 This project demonstrates how to fetch secrets securely from AWS Secrets Manager using AWS Lambda and Python.
